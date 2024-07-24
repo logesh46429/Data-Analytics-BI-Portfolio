@@ -9,3 +9,6 @@
 ## [Project 4 : Sales Dashboard in Looker Studio](https://lookerstudio.google.com/embed/reporting/c18b1fc9-96c3-4294-912b-9ca980991e3e/page/4UAxD)
 
 ## [Project 5 : FIFA dasboard](https://lookerstudio.google.com/s/v7053G9t44E)
+
+## [Project 6 : SQL Project - Women's International Football Results](https://drive.google.com/drive/folders/1x7g7deKUWFNKVXiSpP-SulsKqLCOfDqR?usp=drive_link)
+
